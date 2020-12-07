@@ -1,0 +1,7 @@
+streamlit
+numpy
+opencv-contrib-python-headless
+pafy
+youtube-dl
+wget
+imutils
